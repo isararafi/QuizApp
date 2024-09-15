@@ -1,0 +1,26 @@
+[
+{
+ "question": "which extension is used for javascript file?",
+    "choice1": ".js",
+    "choice2": ".html",
+    "choice3": ".net",
+    "choice4": ".py",
+    "answer": 1
+},
+{
+    "question": "which tag is used for including javascript file?",
+    "choice1": "<html>",
+    "choice2": "<python",
+    "choice3": "<script>",
+    "choice4": "<style>",
+    "answer": 3
+},
+{
+    "question": "how do you write 'hello' in an alert box?",
+    "choice1": "mybox('hello')",
+    "choice2": "msg('hello')",
+    "choice3": "msgbox('hello')",
+    "choice4": "alert('hello')",
+    "answer": 4
+}
+]
